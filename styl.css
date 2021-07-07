@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    max-height: 90vh;
+}
+body{
+  color: aliceblue;
+}
+.clots{
+    display: flex;
+}
+.card{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+nav{
+    float: right;
+}
